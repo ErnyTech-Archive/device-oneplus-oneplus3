@@ -7,7 +7,7 @@ url="https://postmarketos.org"
 license="MIT"
 arch="aarch64"
 options="!check !archcheck"
-depends="postmarketos-base linux-oneplus-oneplus3 mkbootimg mesa-dri-swrast"
+depends="postmarketos-base linux-oneplus-oneplus3 mkbootimg mesa-dri-swrast mdss-fb-init-hack"
 makedepends="devicepkg-dev"
 source="deviceinfo fb.modes"
 
